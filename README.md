@@ -1,3 +1,2 @@
-# Competitive-Programming
-Here I'll just add the codes of some of the interesting question which I will come across during by CP Journey ,questions can be from websites like codeforces ,codechef, hackerrank etc.
-Details about the question can be seen from the description box below the code.
+#Cp-Questions
+Codes of some of the Interesting questions i solved  from Codeforces ,codechef etc.
