@@ -2,7 +2,7 @@
 using namespace std;
 #define int long long int
 #define endl "\n"
-#define accelerate ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define accelerate ios_base::sync_with_stdio(false);cin.(NULL);cout.(NULL)
 #define mod 1000000007
 #define tc int t;cin>>t;while(t--)
 
