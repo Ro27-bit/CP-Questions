@@ -95,7 +95,7 @@ signed main()
      solve();
      
 #ifndef ONLINE_JUDGE
-     cerr << "Time : " << (float)clock() / CLOCKS_PER_SEC << " Secs" << endl;
+     cerr << "Time :" << (float)clock() / CLOCKS_PER_SEC << " Secs" << endl;
 #endif
      
      
