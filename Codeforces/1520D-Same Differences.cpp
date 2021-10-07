@@ -36,8 +36,9 @@ void solve()
      {
                ans+=cnt*(cnt+1)/2;
      }cout<<ans<<endl;
+     }
 }
-}
+
 
 
 
